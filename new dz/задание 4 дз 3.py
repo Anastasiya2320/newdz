@@ -8,6 +8,8 @@ def f(x):
         if t not in lst:
             print(t, "|", list.count(t))
             lst.append(t)
+
+
 x = input("Ввод: ")
 list = []
 f(x)
