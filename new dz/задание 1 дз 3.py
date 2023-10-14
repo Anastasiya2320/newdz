@@ -1,4 +1,4 @@
-def f(x):
+def fy(x):
     while x:
         list.append(x)
         x = input()
@@ -7,4 +7,4 @@ def f(x):
 
 x = input()
 list = []
-print(f(x))
+print(fy(x))
