@@ -1,3 +1,5 @@
+from collections import Counter
+from задание 1 дз 3 import f
 def f(x):
     while x:
         list.append(x)
