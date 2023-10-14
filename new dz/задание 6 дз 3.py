@@ -5,5 +5,7 @@ def f (n):
         if n % i == 0:
             return False
     return True
+
+
 n = int(input())
 print(f(n))
