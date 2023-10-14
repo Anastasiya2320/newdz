@@ -1,5 +1,5 @@
 from collections import Counter
-from задание 1 дз 3 import fy
+from pyy import fy
 
 
 def ff(x):
