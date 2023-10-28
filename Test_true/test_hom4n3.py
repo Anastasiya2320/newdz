@@ -1,5 +1,5 @@
 import pytest
-from newdz.hom4n3 import notsame
+from dz4.hom4n3 import notsame
 
 
 @pytest.mark.parametrize(

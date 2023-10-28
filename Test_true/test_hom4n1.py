@@ -1,4 +1,5 @@
-from newdz.hom4n1 import swap
+import pytest
+from dz4.hom4n1 import swap
 
 
 @pytest.mark.parametrize(

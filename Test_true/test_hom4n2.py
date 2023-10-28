@@ -1,4 +1,5 @@
-from newdz.hom4n2 import cn
+import pytest
+from dz4.hom4n2 import cn
 
 
 @pytest.mark.parametrize(
