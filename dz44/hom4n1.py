@@ -5,4 +5,5 @@ def swap(pl, k):
     k %= len(pl)
     return pl[-k:] + pl[:-k]
 
-print(swap(thv(input()), int(input())))
+if __name__ == "__main__":
+    print(swap(thv(input()), int(input())))
